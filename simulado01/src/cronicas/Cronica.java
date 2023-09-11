@@ -20,6 +20,26 @@ public class Cronica {
 		this.data = data;
 		this.autor = "Anônimo";
 	}
-
+	
+	public String getTitulo() {
+		return this.titulo;
+	}
+	
+	public String getTexto() {
+		return this.texto;
+	}
+	
+	public String getData() {
+		return this.data;
+	}
+	
+	public String getAutor() {
+		return this.autor;
+	}
+	
+	@Override
+	public String toString() {
+		return this.titulo + "\nData: " + this.data + "/nAutor: " + this.autor + "\n " + this.texto ;
+	}
 	
 }
