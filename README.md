@@ -13,3 +13,14 @@ sistema capaz de gerenciar o uso dos laboratórios de Ciência da Computação (
 
 ## 📁 laboratório III
 Contexto de um sistema para gerenciar seus contatos. O sistema deve permitir o cadastro e visualização desses contatos.
+
+## 📁 laboratório IV
+Contexto de um sistema para gerenciar apostas, que possue as seguintes funcionalidades:
+(M)Minha inclusão de times
+(R)Recuperar time
+(.)Adicionar campeonato
+(B)Bora incluir time em campeonato e Verificar se time está em campeonato
+(E)Exibir campeonatos que o time participa
+(T)Tentar a sorte e status
+(!)Já pode fechar o programa!
+
